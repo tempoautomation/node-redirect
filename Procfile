@@ -1,1 +1,1 @@
-web: node bin/server --port=$PORT
+web: bin/server --port=$PORT
